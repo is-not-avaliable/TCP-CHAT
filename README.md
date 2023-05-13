@@ -16,7 +16,3 @@ cd TCP-CHAT/
 pip3 install -r requirements.txt
 ```
 
-- correr el codigo
-```bash
-python3 main.py
-```
